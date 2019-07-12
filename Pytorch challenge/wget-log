@@ -1,0 +1,17 @@
+--2019-01-10 05:58:16--  https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.105.69
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.105.69|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311442766 (297M) [application/zip]
+Saving to: ‘flower_data.zip’
+
+flower_data.zip      68%[============>       ] 204.38M   453KB/s    in 2m 38s  
+
+2019-01-10 06:05:56 (1.30 MB/s) - Read error at byte 214313465/311442766 (Input/output error). Retrying.
+
+--2019-01-10 06:05:57--  (try: 2)  https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.105.69|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+
