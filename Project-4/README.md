@@ -6,5 +6,5 @@
 Generative adversarial networks are used to generate new images of faces.
 
 Image generated
-![Sample Output][image1]
+![Sample Output][/home/akash/Python Basics]
 
