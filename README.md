@@ -34,5 +34,5 @@ This is a repository for documenting my education of Deep Learning. It includes 
 
 
 ## Certificate
-(https://user-images.githubusercontent.com/23194592/66146964-1bb09a00-e60e-11e9-9ddb-7ae6d94e85a2.png)
+![certificate](https://user-images.githubusercontent.com/23194592/66146964-1bb09a00-e60e-11e9-9ddb-7ae6d94e85a2.png)
 
