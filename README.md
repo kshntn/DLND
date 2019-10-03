@@ -19,3 +19,20 @@ This is a repository for documenting my education of Deep Learning. It includes 
 * [Generative Adversarial Network on MNIST](https://github.com/kshntn/DLND/blob/master/GANs/MNIST%20GAN/MNIST_GAN_Exercise.ipynb): Trained a simple generative adversarial network on the MNIST dataset.
 * [Deep Convolutional GAN (DCGAN)](https://github.com/kshntn/DLND/blob/master/GANs/DCGAN/DCGAN_Exercise.ipynb): Implemented a DCGAN to generate new images based on the Street View House Numbers (SVHN) dataset.
 * [CycleGAN](https://github.com/kshntn/DLND/blob/master/GANs/CycleGAN/CycleGAN_Exercise.ipynb): Implemented a CycleGAN that is designed to learn from unpaired and unlabeled data; used trained generators to transform images from summer to winter and vice versa.
+
+
+
+### Projects
+
+* [Predicting Bike-Sharing Patterns](https://github.com/kshntn/DLND/tree/master/Project%20-1/first_neural_network-265150): Implemented a neural network in NumPy to predict bike rentals.
+* [Dog Breed Classifier](https://github.com/kshntn/DLND/tree/master/Project%20-2): Built a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
+* [TV Script Generation](https://github.com/kshntn/DLND/tree/master/Project-3): Trained a recurrent neural network to generate scripts in the style of dialogue from Seinfeld Season.
+* [Face Generation](https://github.com/kshntn/DLND/tree/master/Project-4): Used a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
+* [Deploying a Model (with AWS SageMaker)](https://github.com/kshntn/DLND/tree/master/Project-5) Deployed pre-trained models using AWS SageMaker. Constructed a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set. Deployed the model and constructed a simple web app which will interact with the deployed model.
+
+
+
+
+## Certificate
+(https://user-images.githubusercontent.com/23194592/66146964-1bb09a00-e60e-11e9-9ddb-7ae6d94e85a2.png)
+
