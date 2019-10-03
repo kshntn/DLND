@@ -30,7 +30,9 @@ This is a repository for documenting my education of Deep Learning. It includes 
 * [Face Generation](https://github.com/kshntn/DLND/tree/master/Project-4): Used a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
 * [Deploying a Model (with AWS SageMaker)](https://github.com/kshntn/DLND/tree/master/Project-5) Deployed pre-trained models using AWS SageMaker. Constructed a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set. Deployed the model and constructed a simple web app which will interact with the deployed model.
 
+## Installation
 
+Please install the dependencies from the requirements while running the code.
 
 
 ## Certificate
