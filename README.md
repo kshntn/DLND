@@ -1,3 +1,4 @@
-# Deep Learning Nanodegree by Udacity
+# Welcome to my Projects from the Deep Learning Nanodegree
 
-To become an expert in neural networks, and learn to implement them using the deep learning framework PyTorch. Build convolutional networks for image recognition, recurrent networks for sequence generation, generative adversarial networks for image generation, and learn how to deploy models accessible from a website.
+## About
+This is a repository for to documenting my education of Deep Learning. It includes the projects I completed sucessfully from the Udacity Deep Learning curriculum. I have built convolutional networks for image recognition, recurrent neural networks for sequence generation, generative adversarial networks for image generation, and also learnt to deploy models accessible from a website.
