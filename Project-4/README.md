@@ -1,8 +1,10 @@
+# Face Generation using GANs
+
 ## Project Overview
 
 In this project, I defined and trained a DCGAN on a dataset of faces. The goal of this project is to get a generator network to generate new images of faces that look as realistic as possble. The image below is a result of the training:
 
-Image generated
+### Image generated
 ![Sample Output](https://user-images.githubusercontent.com/23194592/63302009-54a1e300-c2dc-11e9-8a4c-680c7c992a81.png)
 
 
