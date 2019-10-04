@@ -6,7 +6,7 @@ This is a repository for documenting my education of Deep Learning. It includes 
 
 ## Contents
 
-### Tutorials
+### Exercises
 * [Introduction to Neural Networks](https://github.com/kshntn/DLND/blob/master/Analyzing%20Student%20Data/StudentAdmissions.ipynb): Implemented gradient descent and applied it to predict patterns in student admissions data.
 * [Sentiment Analysis with NumPy](https://github.com/kshntn/DLND/blob/master/Sentiment%20Analysis/Sentiment_Classification_Projects.ipynb): [Andrew Trask](http://iamtrask.github.io/) built a sentiment analysis model, for predicting if some text is positive or negative.
 * [Convolutional Neural Networks](https://github.com/kshntn/DLND/tree/master/Convolutional%20Neural%20Networks): Visualized the output of layers that make up a CNN. Learnt to define and train a CNN for classifying [MNIST data](https://en.wikipedia.org/wiki/MNIST_database), a handwritten digit database that is notorious in the fields of machine and deep learning. Also, defined and trained a CNN for classifying images in the [CIFAR10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
@@ -22,7 +22,7 @@ This is a repository for documenting my education of Deep Learning. It includes 
 
 
 
-### Projects
+### Projects Completed
 
 * [Predicting Bike-Sharing Patterns](https://github.com/kshntn/DLND/tree/master/Project%20-1/first_neural_network-265150): Implemented a neural network in NumPy to predict bike rentals.
 * [Dog Breed Classifier](https://github.com/kshntn/DLND/tree/master/Project%20-2): Built a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
