@@ -24,7 +24,7 @@ This is a repository for documenting my education of Deep Learning. It includes 
 
 ### Projects Completed
 
-* [Predicting Bike-Sharing Patterns](https://github.com/kshntn/DLND/tree/master/Project%20-1/first_neural_network-265150): Implemented a neural network in NumPy to predict bike rentals.
+* [Predicting Bike-Sharing Patterns](https://github.com/kshntn/DLND/tree/master/Project%20-1): Implemented a neural network in NumPy to predict bike rentals.
 * [Dog Breed Classifier](https://github.com/kshntn/DLND/tree/master/Project%20-2): Built a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
 * [TV Script Generation](https://github.com/kshntn/DLND/tree/master/Project-3): Trained a recurrent neural network to generate scripts in the style of dialogue from Seinfeld Season.
 * [Face Generation](https://github.com/kshntn/DLND/tree/master/Project-4): Used a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
